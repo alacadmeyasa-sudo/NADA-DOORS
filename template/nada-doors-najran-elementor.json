@@ -1,0 +1,1825 @@
+{
+  "version": "0.4",
+  "title": "نادا دورز - فرع نجران (صفحة هبوط)",
+  "type": "page",
+  "content": [
+    {
+      "id": "1f0b10e",
+      "elType": "section",
+      "settings": {
+        "background_background": "gradient",
+        "background_color": "#1c160f",
+        "background_color_b": "#2b2117",
+        "background_gradient_angle": {
+          "unit": "deg",
+          "size": 135,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": 90,
+          "right": 20,
+          "bottom": 90,
+          "left": 20,
+          "isLinked": false
+        },
+        "border_color": "#c9a24b",
+        "border_border": "solid",
+        "border_width": {
+          "unit": "px",
+          "top": 0,
+          "right": 0,
+          "bottom": 5,
+          "left": 0,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "827e10e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "a809929",
+              "elType": "widget",
+              "settings": {
+                "title": "معرض نادا دورز",
+                "header_size": "h1",
+                "align": "center",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 54,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "ff8e4db",
+              "elType": "widget",
+              "settings": {
+                "title": "فرع نجران",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#e3c478",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "0504567",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>وجهتك الأولى لأبواب فاخرة بجودة عالية وأسعار تنافسية في منطقة نجران — تصاميم عصرية، خامات أصلية، وتركيب احترافي بضمان.</p>",
+                "align": "center",
+                "text_color": "#f0e8d8",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "fc0496e",
+              "elType": "section",
+              "settings": {
+                "gap": "default",
+                "structure": "20"
+              },
+              "elements": [
+                {
+                  "id": "74063cd",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "32bab63",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "تواصل عبر واتساب",
+                        "link": {
+                          "url": "https://wa.me/966544072610?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%D8%8C%20%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%AA%20%D9%85%D8%B9%D9%83%D9%85%20%D8%B9%D8%A8%D8%B1%20%D8%B5%D9%81%D8%AD%D8%A9%20%D9%81%D8%B1%D8%B9%20%D9%86%D8%AC%D8%B1%D8%A7%D9%86%20%F0%9F%8C%9F%20%D9%88%D8%A3%D8%B1%D8%BA%D8%A8%20%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D8%B1%D8%A9",
+                          "is_external": "true",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "align": "center",
+                        "background_color": "#25D366",
+                        "button_text_color": "#ffffff",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": 50,
+                          "right": 50,
+                          "bottom": 50,
+                          "left": 50,
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": 16,
+                          "right": 38,
+                          "bottom": 16,
+                          "left": 38,
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 18,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "selected_icon": {
+                          "value": "fab fa-whatsapp",
+                          "library": "fa-brands"
+                        },
+                        "icon_align": "right"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ]
+                },
+                {
+                  "id": "b6df4d4",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "68bfdaa",
+                      "elType": "widget",
+                      "settings": {
+                        "text": "اتصل الآن 0544072610",
+                        "link": {
+                          "url": "tel:+966544072610",
+                          "is_external": "true",
+                          "nofollow": "",
+                          "custom_attributes": ""
+                        },
+                        "align": "center",
+                        "background_color": "#c9a24b",
+                        "button_text_color": "#1c160f",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": 50,
+                          "right": 50,
+                          "bottom": 50,
+                          "left": 50,
+                          "isLinked": true
+                        },
+                        "text_padding": {
+                          "unit": "px",
+                          "top": 16,
+                          "right": 38,
+                          "bottom": 16,
+                          "left": 38,
+                          "isLinked": false
+                        },
+                        "typography_typography": "custom",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 18,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700"
+                      },
+                      "elements": [],
+                      "widgetType": "button"
+                    }
+                  ]
+                }
+              ],
+              "isInner": false
+            }
+          ]
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "b683795",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": 55,
+          "right": 20,
+          "bottom": 10,
+          "left": 20,
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#f7f3ec"
+      },
+      "elements": [
+        {
+          "id": "e1922fe",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "2598ab9",
+              "elType": "widget",
+              "settings": {
+                "title": "لماذا تختار معرض نادا دورز؟",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "ac1ad3e",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>نقدّم لك تجربة متكاملة من الاختيار حتى التركيب</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "04d375d",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f7f3ec",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 10,
+          "bottom": 50,
+          "left": 10,
+          "isLinked": false
+        },
+        "gap": "extended"
+      },
+      "elements": [
+        {
+          "id": "0dc1b69",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "e92164d",
+              "elType": "widget",
+              "settings": {
+                "title": "★",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "2ae7832",
+              "elType": "widget",
+              "settings": {
+                "title": "جودة مضمونة",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "899668b",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>خامات أصلية وتشطيب احترافي يدوم لسنوات.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        },
+        {
+          "id": "aea6ee1",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "3e47128",
+              "elType": "widget",
+              "settings": {
+                "title": "🔧",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "3234022",
+              "elType": "widget",
+              "settings": {
+                "title": "تركيب احترافي",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "58f7ee8",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>فريق متخصص يضمن لك تركيباً دقيقاً وسريعاً.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        },
+        {
+          "id": "07584a7",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "ce859ae",
+              "elType": "widget",
+              "settings": {
+                "title": "✔",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "1cc1c06",
+              "elType": "widget",
+              "settings": {
+                "title": "ضمان حقيقي",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "46a6fee",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>ضمان على المنتج والتركيب لراحة بالك.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        },
+        {
+          "id": "8fc2be9",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "05b1da6",
+              "elType": "widget",
+              "settings": {
+                "title": "💎",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "aeb2247",
+              "elType": "widget",
+              "settings": {
+                "title": "أسعار منافسة",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "9de2b6f",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>أفضل قيمة مقابل السعر في منطقة نجران.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "a3f414e",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": 55,
+          "right": 20,
+          "bottom": 10,
+          "left": 20,
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "4877b5b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "32ac0a9",
+              "elType": "widget",
+              "settings": {
+                "title": "منتجاتنا",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "d0636de",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>تشكيلة واسعة من الأبواب تناسب كل الأذواق والميزانيات</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "765b0de",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "unit": "px",
+          "top": 30,
+          "right": 10,
+          "bottom": 50,
+          "left": 10,
+          "isLinked": false
+        },
+        "gap": "extended"
+      },
+      "elements": [
+        {
+          "id": "b371bdc",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "20b55ce",
+              "elType": "widget",
+              "settings": {
+                "title": "🚪",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "319f6a6",
+              "elType": "widget",
+              "settings": {
+                "title": "أبواب خشبية فاخرة",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "8644956",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>أبواب من خشب طبيعي مصمّمة بأناقة تمنح منزلك دفئاً وفخامة.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        },
+        {
+          "id": "ad34984",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "fd5b988",
+              "elType": "widget",
+              "settings": {
+                "title": "🛡️",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "9e228ee",
+              "elType": "widget",
+              "settings": {
+                "title": "أبواب أمان مصفّحة",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "19ac012",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>حماية قصوى لمنزلك بأبواب مصفّحة عالية المتانة ومقاومة للكسر.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        },
+        {
+          "id": "1fdb83d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "1e94b71",
+              "elType": "widget",
+              "settings": {
+                "title": "✨",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "661561d",
+              "elType": "widget",
+              "settings": {
+                "title": "أبواب حديد وليزر",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "eeffe27",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>تصاميم حديد وقص ليزر عصرية تجمع بين القوة والجمال.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        },
+        {
+          "id": "9b58677",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "62f1e3d",
+              "elType": "widget",
+              "settings": {
+                "title": "🏠",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "0db1a1b",
+              "elType": "widget",
+              "settings": {
+                "title": "أبواب داخلية",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "ad29fd3",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>خيارات واسعة من الأبواب الداخلية بألوان وأشكال تناسب كل ديكور.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        },
+        {
+          "id": "718ae32",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "ea95b74",
+              "elType": "widget",
+              "settings": {
+                "title": "👑",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "d2097d4",
+              "elType": "widget",
+              "settings": {
+                "title": "أبواب الرئيسية (المدخل)",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "d1c5aea",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>أبواب مداخل فخمة تعكس ذوقك من أول لمسة.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        },
+        {
+          "id": "467cfc8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#ffffff",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "margin": {
+              "unit": "px",
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 32,
+              "right": 22,
+              "bottom": 32,
+              "left": 22,
+              "isLinked": false
+            },
+            "box_shadow_box_shadow_type": "yes",
+            "box_shadow_box_shadow": {
+              "horizontal": 0,
+              "vertical": 12,
+              "blur": 30,
+              "spread": 0,
+              "color": "rgba(28,22,15,0.10)"
+            }
+          },
+          "elements": [
+            {
+              "id": "b6718f7",
+              "elType": "widget",
+              "settings": {
+                "title": "💧",
+                "header_size": "div",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 46,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "88c0811",
+              "elType": "widget",
+              "settings": {
+                "title": "أبواب الحمامات (HDF)",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "00d1864",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>أبواب مقاومة للرطوبة عملية وأنيقة لدورات المياه.</p>",
+                "align": "center",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "5236df3",
+      "elType": "section",
+      "settings": {
+        "background_background": "gradient",
+        "background_color": "#c9a24b",
+        "background_color_b": "#a9863a",
+        "background_gradient_angle": {
+          "unit": "deg",
+          "size": 135,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": 55,
+          "right": 20,
+          "bottom": 55,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "9a7d2d8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "988f78c",
+              "elType": "widget",
+              "settings": {
+                "title": "هل أعجبك تصميم معين؟ تواصل معنا الآن",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "86f145f",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>فريق فرع نجران جاهز للرد على استفساراتك وتقديم أفضل العروض</p>",
+                "align": "center",
+                "text_color": "#f0e8d8",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "66c251c",
+              "elType": "widget",
+              "settings": {
+                "text": "راسلنا على واتساب — فرع نجران",
+                "link": {
+                  "url": "https://wa.me/966544072610?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%D8%8C%20%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%AA%20%D9%85%D8%B9%D9%83%D9%85%20%D8%B9%D8%A8%D8%B1%20%D8%B5%D9%81%D8%AD%D8%A9%20%D9%81%D8%B1%D8%B9%20%D9%86%D8%AC%D8%B1%D8%A7%D9%86%20%F0%9F%8C%9F%20%D9%88%D8%A3%D8%B1%D8%BA%D8%A8%20%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D8%B1%D8%A9",
+                  "is_external": "true",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "center",
+                "background_color": "#25D366",
+                "button_text_color": "#ffffff",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 50,
+                  "right": 50,
+                  "bottom": 50,
+                  "left": 50,
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 16,
+                  "right": 38,
+                  "bottom": 16,
+                  "left": 38,
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "selected_icon": {
+                  "value": "fab fa-whatsapp",
+                  "library": "fa-brands"
+                },
+                "icon_align": "right"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ]
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "85c9e3a",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": 55,
+          "right": 20,
+          "bottom": 55,
+          "left": 20,
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "e5b6c6c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "592bb49",
+              "elType": "widget",
+              "settings": {
+                "title": "تواصل معنا",
+                "header_size": "h2",
+                "align": "right",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "a8ce1ed",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>📞 الهاتف / واتساب: <a href='tel:+966544072610' style='color:#c9a24b'>0544072610</a></p>",
+                "align": "right",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "40c2e6e",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>📍 الموقع: معرض نادا دورز - فرع نجران، منطقة نجران</p>",
+                "align": "right",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "e5b47cc",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>🕐 أوقات العمل: يومياً من 9 صباحاً حتى 11 مساءً</p>",
+                "align": "right",
+                "text_color": "#3a332a",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "5fbc848",
+              "elType": "widget",
+              "settings": {
+                "text": "افتح الموقع على الخريطة",
+                "link": {
+                  "url": "https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B9%D8%B1%D8%B6%20%D9%86%D8%A7%D8%AF%D8%A7%20%D8%AF%D9%88%D8%B1%D8%B2%20%D9%86%D8%AC%D8%B1%D8%A7%D9%86",
+                  "is_external": "true",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "right",
+                "background_color": "#1c160f",
+                "button_text_color": "#ffffff",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 50,
+                  "right": 50,
+                  "bottom": 50,
+                  "left": 50,
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 16,
+                  "right": 38,
+                  "bottom": 16,
+                  "left": 38,
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ]
+        },
+        {
+          "id": "af8b2c3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_color": "#f7f3ec",
+            "border_radius": {
+              "unit": "px",
+              "top": 18,
+              "right": 18,
+              "bottom": 18,
+              "left": 18,
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": 30,
+              "right": 25,
+              "bottom": 30,
+              "left": 25,
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "7668dd1",
+              "elType": "widget",
+              "settings": {
+                "title": "تواصل سريع",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#1c160f",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 24,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "c3d0dad",
+              "elType": "widget",
+              "settings": {
+                "text": "محادثة واتساب فورية",
+                "link": {
+                  "url": "https://wa.me/966544072610?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%D8%8C%20%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%AA%20%D9%85%D8%B9%D9%83%D9%85%20%D8%B9%D8%A8%D8%B1%20%D8%B5%D9%81%D8%AD%D8%A9%20%D9%81%D8%B1%D8%B9%20%D9%86%D8%AC%D8%B1%D8%A7%D9%86%20%F0%9F%8C%9F%20%D9%88%D8%A3%D8%B1%D8%BA%D8%A8%20%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%AA%D9%88%D9%81%D8%B1%D8%A9",
+                  "is_external": "true",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "center",
+                "background_color": "#25D366",
+                "button_text_color": "#ffffff",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 50,
+                  "right": 50,
+                  "bottom": 50,
+                  "left": 50,
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 16,
+                  "right": 38,
+                  "bottom": 16,
+                  "left": 38,
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "selected_icon": {
+                  "value": "fab fa-whatsapp",
+                  "library": "fa-brands"
+                },
+                "icon_align": "right"
+              },
+              "elements": [],
+              "widgetType": "button"
+            },
+            {
+              "id": "3e4e9b3",
+              "elType": "widget",
+              "settings": {
+                "text": "اتصال هاتفي مباشر",
+                "link": {
+                  "url": "tel:+966544072610",
+                  "is_external": "true",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "center",
+                "background_color": "#c9a24b",
+                "button_text_color": "#1c160f",
+                "border_radius": {
+                  "unit": "px",
+                  "top": 50,
+                  "right": 50,
+                  "bottom": 50,
+                  "left": 50,
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": 16,
+                  "right": 38,
+                  "bottom": 16,
+                  "left": 38,
+                  "isLinked": false
+                },
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ]
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "e9eefe6",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#1c160f",
+        "padding": {
+          "unit": "px",
+          "top": 35,
+          "right": 20,
+          "bottom": 35,
+          "left": 20,
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "dc290cf",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "f9cdffc",
+              "elType": "widget",
+              "settings": {
+                "title": "معرض نادا دورز — فرع نجران",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#e3c478",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_weight": "700"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "7a6b2cf",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>جميع الحقوق محفوظة © معرض نادا دورز فرع نجران 2026</p>",
+                "align": "center",
+                "text_color": "#cdbfa6",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ]
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {
+    "template": "elementor_canvas",
+    "hide_title": "yes"
+  }
+}
