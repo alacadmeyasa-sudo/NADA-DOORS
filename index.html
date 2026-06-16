@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>معرض نادا دورز - فرع نجران | أبواب فاخرة بجودة عالية</title>
+<meta name="description" content="معرض نادا دورز فرع نجران - أبواب خشبية، أبواب أمان مصفّحة، أبواب حديد وليزر، تركيب احترافي وضمان. تواصل واتساب: 0544072610">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --dark:#1c160f; --dark2:#2b2117; --gold:#c9a24b; --gold2:#e3c478;
+    --cream:#f7f3ec; --text:#3a332a; --wa:#25D366;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Tajawal','Cairo',sans-serif;color:var(--text);background:#fff;line-height:1.8}
+  h1,h2,h3{font-family:'Cairo',sans-serif}
+  img{max-width:100%}
+  a{text-decoration:none}
+  .container{max-width:1140px;margin:0 auto;padding:0 20px}
+  .btn{display:inline-flex;align-items:center;gap:10px;padding:15px 36px;border-radius:50px;
+       font-weight:700;font-size:18px;transition:.25s;cursor:pointer;border:none}
+  .btn:hover{transform:translateY(-3px);box-shadow:0 10px 25px rgba(0,0,0,.2)}
+  .btn-wa{background:var(--wa);color:#fff}
+  .btn-gold{background:var(--gold);color:var(--dark)}
+  .btn-dark{background:var(--dark);color:#fff}
+
+  /* الهيرو */
+  .hero{background:linear-gradient(135deg,var(--dark),var(--dark2));
+        color:#fff;text-align:center;padding:90px 20px;border-bottom:5px solid var(--gold)}
+  .hero h1{font-size:54px;font-weight:800;margin-bottom:8px}
+  .hero .branch{display:inline-block;color:var(--dark);background:var(--gold2);
+        padding:6px 24px;border-radius:50px;font-size:24px;font-weight:700;margin-bottom:22px}
+  .hero p{font-size:20px;color:#f0e8d8;max-width:760px;margin:0 auto 32px}
+  .hero-btns{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
+
+  /* الأقسام */
+  section{padding:60px 0}
+  .sec-head{text-align:center;margin-bottom:40px}
+  .sec-head h2{font-size:38px;color:var(--dark);margin-bottom:10px}
+  .sec-head h2 span{color:var(--gold)}
+  .sec-head p{font-size:18px;color:#6b6052}
+  .bg-cream{background:var(--cream)}
+
+  /* الشبكات */
+  .grid{display:grid;gap:26px}
+  .grid-4{grid-template-columns:repeat(4,1fr)}
+  .grid-3{grid-template-columns:repeat(3,1fr)}
+  .card{background:#fff;border-radius:18px;padding:34px 24px;text-align:center;
+        box-shadow:0 12px 30px rgba(28,22,15,.08);transition:.25s;border:1px solid #efe7d8}
+  .card:hover{transform:translateY(-8px);box-shadow:0 18px 40px rgba(201,162,75,.25);border-color:var(--gold)}
+  .card .emoji{font-size:48px;display:block;margin-bottom:14px}
+  .card h3{font-size:22px;color:var(--dark);margin-bottom:10px}
+  .card p{font-size:15px;color:#6b6052}
+
+  /* شريط الدعوة */
+  .cta{background:linear-gradient(135deg,var(--gold),#a9863a);text-align:center;color:#fff}
+  .cta h2{font-size:34px;margin-bottom:12px}
+  .cta p{font-size:19px;color:#fff8ea;margin-bottom:26px}
+
+  /* التواصل */
+  .contact-wrap{display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center}
+  .contact-info h2{font-size:34px;color:var(--dark);margin-bottom:20px}
+  .contact-info p{font-size:18px;margin-bottom:14px}
+  .contact-info a{color:var(--gold);font-weight:700}
+  .contact-card{background:var(--cream);border-radius:18px;padding:34px;text-align:center}
+  .contact-card h3{font-size:24px;color:var(--dark);margin-bottom:20px}
+  .contact-card .btn{width:100%;justify-content:center;margin-bottom:14px}
+
+  /* الفوتر */
+  footer{background:var(--dark);color:#cdbfa6;text-align:center;padding:36px 20px}
+  footer h3{color:var(--gold2);font-size:22px;margin-bottom:8px}
+  footer p{font-size:14px}
+
+  /* زر واتساب العائم */
+  .wa-float{position:fixed;bottom:24px;left:24px;background:var(--wa);color:#fff;
+        width:62px;height:62px;border-radius:50%;display:flex;align-items:center;
+        justify-content:center;font-size:32px;box-shadow:0 8px 24px rgba(37,211,102,.5);
+        z-index:999;animation:pulse 2s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(37,211,102,.5)}
+        70%{box-shadow:0 0 0 18px rgba(37,211,102,0)}100%{box-shadow:0 0 0 0 rgba(37,211,102,0)}}
+
+  @media(max-width:900px){
+    .grid-4{grid-template-columns:repeat(2,1fr)}
+    .grid-3{grid-template-columns:repeat(2,1fr)}
+    .contact-wrap{grid-template-columns:1fr}
+    .hero h1{font-size:38px}
+  }
+  @media(max-width:560px){
+    .grid-4,.grid-3{grid-template-columns:1fr}
+    .hero h1{font-size:32px}.sec-head h2{font-size:28px}
+  }
+</style>
+</head>
+<body>
+
+<!-- الهيرو -->
+<header class="hero">
+  <div class="container">
+    <h1>معرض نادا دورز</h1>
+    <div class="branch">فرع نجران</div>
+    <p>وجهتك الأولى لأبواب فاخرة بجودة عالية وأسعار تنافسية في منطقة نجران —
+       تصاميم عصرية، خامات أصلية، وتركيب احترافي بضمان.</p>
+    <div class="hero-btns">
+      <a class="btn btn-wa" id="wa-hero" target="_blank">💬 تواصل عبر واتساب</a>
+      <a class="btn btn-gold" href="tel:+966544072610">📞 اتصل الآن 0544072610</a>
+    </div>
+  </div>
+</header>
+
+<!-- المميزات -->
+<section class="bg-cream">
+  <div class="container">
+    <div class="sec-head">
+      <h2>لماذا تختار <span>نادا دورز؟</span></h2>
+      <p>نقدّم لك تجربة متكاملة من الاختيار حتى التركيب</p>
+    </div>
+    <div class="grid grid-4">
+      <div class="card"><span class="emoji">★</span><h3>جودة مضمونة</h3><p>خامات أصلية وتشطيب احترافي يدوم لسنوات.</p></div>
+      <div class="card"><span class="emoji">🔧</span><h3>تركيب احترافي</h3><p>فريق متخصص يضمن لك تركيباً دقيقاً وسريعاً.</p></div>
+      <div class="card"><span class="emoji">✔</span><h3>ضمان حقيقي</h3><p>ضمان على المنتج والتركيب لراحة بالك.</p></div>
+      <div class="card"><span class="emoji">💎</span><h3>أسعار منافسة</h3><p>أفضل قيمة مقابل السعر في منطقة نجران.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- المنتجات -->
+<section>
+  <div class="container">
+    <div class="sec-head">
+      <h2>منتجاتنا</h2>
+      <p>تشكيلة واسعة من الأبواب تناسب كل الأذواق والميزانيات</p>
+    </div>
+    <div class="grid grid-3">
+      <div class="card"><span class="emoji">🚪</span><h3>أبواب خشبية فاخرة</h3><p>أبواب من خشب طبيعي مصمّمة بأناقة تمنح منزلك دفئاً وفخامة.</p></div>
+      <div class="card"><span class="emoji">🛡️</span><h3>أبواب أمان مصفّحة</h3><p>حماية قصوى لمنزلك بأبواب مصفّحة عالية المتانة ومقاومة للكسر.</p></div>
+      <div class="card"><span class="emoji">✨</span><h3>أبواب حديد وليزر</h3><p>تصاميم حديد وقص ليزر عصرية تجمع بين القوة والجمال.</p></div>
+      <div class="card"><span class="emoji">🏠</span><h3>أبواب داخلية</h3><p>خيارات واسعة من الأبواب الداخلية بألوان وأشكال تناسب كل ديكور.</p></div>
+      <div class="card"><span class="emoji">👑</span><h3>أبواب الرئيسية (المدخل)</h3><p>أبواب مداخل فخمة تعكس ذوقك من أول لمسة.</p></div>
+      <div class="card"><span class="emoji">💧</span><h3>أبواب الحمامات (HDF)</h3><p>أبواب مقاومة للرطوبة عملية وأنيقة لدورات المياه.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- شريط دعوة -->
+<section class="cta">
+  <div class="container">
+    <h2>هل أعجبك تصميم معين؟ تواصل معنا الآن</h2>
+    <p>فريق فرع نجران جاهز للرد على استفساراتك وتقديم أفضل العروض</p>
+    <a class="btn btn-wa" id="wa-cta" target="_blank" style="background:#1c160f">💬 راسلنا على واتساب — فرع نجران</a>
+  </div>
+</section>
+
+<!-- التواصل -->
+<section>
+  <div class="container">
+    <div class="contact-wrap">
+      <div class="contact-info">
+        <h2>تواصل معنا</h2>
+        <p>📞 الهاتف / واتساب: <a href="tel:+966544072610">0544072610</a></p>
+        <p>📍 الموقع: معرض نادا دورز - فرع نجران، منطقة نجران</p>
+        <p>🕐 أوقات العمل: يومياً من 9 صباحاً حتى 11 مساءً</p>
+        <a class="btn btn-dark" href="https://www.google.com/maps/search/?api=1&query=%D9%85%D8%B9%D8%B1%D8%B6%20%D9%86%D8%A7%D8%AF%D8%A7%20%D8%AF%D9%88%D8%B1%D8%B2%20%D9%86%D8%AC%D8%B1%D8%A7%D9%86" target="_blank">📍 افتح الموقع على الخريطة</a>
+      </div>
+      <div class="contact-card">
+        <h3>تواصل سريع</h3>
+        <a class="btn btn-wa" id="wa-contact" target="_blank">💬 محادثة واتساب فورية</a>
+        <a class="btn btn-gold" href="tel:+966544072610">📞 اتصال هاتفي مباشر</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- الفوتر -->
+<footer>
+  <h3>معرض نادا دورز — فرع نجران</h3>
+  <p>جميع الحقوق محفوظة © معرض نادا دورز فرع نجران 2026</p>
+</footer>
+
+<!-- زر واتساب عائم -->
+<a class="wa-float" id="wa-float" target="_blank" aria-label="تواصل واتساب">💬</a>
+
+<script>
+  // رابط الواتساب مع رسالة مميزة توضّح أن التواصل تم عبر صفحة فرع نجران
+  var phone = "966544072610";
+  var msg = "السلام عليكم، تواصلت معكم عبر صفحة فرع نجران 🌟 وأرغب بالاستفسار عن الأبواب والأسعار المتوفرة";
+  var waLink = "https://wa.me/" + phone + "?text=" + encodeURIComponent(msg);
+  ["wa-hero","wa-cta","wa-contact","wa-float"].forEach(function(id){
+    var el = document.getElementById(id);
+    if(el) el.href = waLink;
+  });
+</script>
+</body>
+</html>
